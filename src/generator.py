@@ -1,4 +1,5 @@
 import openai
+import os 
 
 def prompt_to_query(user_prompt, schema, api_key):
     
